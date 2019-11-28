@@ -5,8 +5,8 @@ setup(
     version='v.0.3.2-plus',
     packages=['cprint','exp'],
     license='Artistic License',
-    long_description="Literally any idea that pops into my head",
-    description="from thetechrobo import * -- my package",
+    long_description="I add Literally any idea that pops into my head",
+    description="from thetechrobo import * -- my misc package",
     author='Ittussarom Ynohtna @TheTechRobo',
 	url='https://github.com/thetechrobo/python-text-calculator-plus',
 )
